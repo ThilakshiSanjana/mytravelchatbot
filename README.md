@@ -1,8 +1,5 @@
 # LankaTravelMate - Chatbot Project
 
-Certainly. Here is the text, rewritten and formatted for a **README** file on GitHub.
-
-# LankaTravelMate Chatbot 🇱🇰
 
 Welcome to the **LankaTravelMate Chatbot**\! This project provides an interactive chatbot to help you with travel information in Sri Lanka, including details on destinations, hotels, and transportation. This guide will walk you through the setup and usage of the application.
 
