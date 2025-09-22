@@ -1,1 +1,1 @@
-# LankaTravelMate Enhanced - Chatbot Project
+# LankaTravelMate  - Chatbot Project
